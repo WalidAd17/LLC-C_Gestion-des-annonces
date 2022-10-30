@@ -1,0 +1,5 @@
+demande vente 2 24 11 2017 19000000 Baba_Hassen_cheraga_BenAknoun_Ouled_fayet 650 terrain Nous_cherchons_un_terrain_de_650_m2
+offre vente 01 05 01 2018 19000000 Alger 280 bungalow Jardin_electricite_gaz_eau_3_pieces
+demande achat 04 17 08 2020 20000000 Babezzouar 100 appartement Remia_immoblier_urgent_cherche_achat_F2_Hydra_quartier_residentiel
+demande location 31 07 07 2018 70000 Tizi 80 appartement un_appartement_F3_ou_F2_de_preference_etage_inferieur_a_3
+offre location 3 11 05 2015 26000 alger 65 appartement met_en_location_F3_au_2ieme_etage_dans_une_cite_cloturee
